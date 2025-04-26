@@ -1,0 +1,30 @@
+Project Description:
+Developed a deep learning model using DCGAN architecture to generate synthetic images of handwritten digits, similar to those in the MNIST dataset. The project involved building and training two neural networks — a generator and a discriminator — that competed against each other to produce increasingly realistic digit images.
+
+Key Responsibilities:
+
+• Designed and implemented the DCGAN model architecture using TensorFlow/Keras.
+
+• Preprocessed and normalized the MNIST dataset for optimal model training.
+
+• Trained the generator to produce realistic handwritten digits while improving the discriminator's ability to distinguish real from fake images.
+
+• Tuned hyperparameters such as learning rates, batch sizes, and activation functions to enhance model performance.
+
+• Visualized the training progress by generating sample outputs at different epochs.
+
+• Evaluated the model using qualitative analysis of generated images.
+
+Skills Gained:
+
+→ Deep Learning
+
+→ Generative Adversarial Networks (GANs)
+
+→ Convolutional Neural Networks (CNNs)
+
+→ Python Programming (TensorFlow/Keras)
+
+→ Data Preprocessing and Visualization
+
+→ Model Evaluation and Tuning
